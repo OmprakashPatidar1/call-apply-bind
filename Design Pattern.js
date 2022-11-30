@@ -8,7 +8,7 @@ class Student{
       this.board_marks=board_marks;
     }
   total(){
-    console.log(Student.count)
+     console.log(Student.count)
   }
   egligibleforplacement(minMarks){
     return (minPlacementAge)=>{
