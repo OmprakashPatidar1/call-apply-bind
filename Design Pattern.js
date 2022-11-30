@@ -17,7 +17,6 @@ class Student{
       }
   }
   }
-  
   }
   var Ram=new Student('Ram',22,9856854752,60)
   Ram.egligibleforplacement(40)(21)
